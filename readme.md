@@ -59,7 +59,7 @@
  [Frozen - Let It Go](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Disney/Frozen%20-%20Let%20it%20go.pdf) | [Youtube](https://www.youtube.com/watch?v=tBAQd2v-_J4)
  [Hercules - I Can Go The Distance](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Disney/Hercules%20-%20I%20Can%20Go%20The%20Distance.pdf) | [Youtube](https://www.youtube.com/watch?v=pUIhted5gEE)
  [The Little Mermaid - Part Of Your World](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Disney/Part%20of%20Your%20World.pdf) | [Youtube](https://www.youtube.com/watch?v=_1ikn2ZYC5Q)
- [Pinocchio - When You Wish Upon A Star](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Disney/Part%20of%20Your%20World.pdf) | [Youtube](https://www.youtube.com/watch?v=GmVlJaFUnqQ)
+ [Pinocchio - When You Wish Upon A Star](https://github.com/mstty/PianoSheets/blob/master/Kyle%20Landry/Disney/Pinocchio%20-%20When%20You%20Wish%20Upon%20A%20Star.pdf) | [Youtube](https://www.youtube.com/watch?v=GmVlJaFUnqQ)
  [Up - Married Life](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Disney/Pixar's%20Up%20-%20Married%20Life.pdf) | [Youtube](https://www.youtube.com/watch?v=fnyEi4qeuAk)
  [Pocahontas - Colors Of The Wind](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Disney/Pocahontas%20-%20Colors%20of%20The%20Wind.pdf) | [Youtube](https://www.youtube.com/watch?v=s1ERVXHNSJQ)
  [Tangled - I See The Light](https://github.com/JKleinne/PianoSheets/blob/master/Kyle%20Landry/Disney/Tangled%20-%20I%20See%20The%20Light.pdf) | [Youtube](https://www.youtube.com/watch?v=UH6u0109yzo)
