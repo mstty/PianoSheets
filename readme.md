@@ -1,5 +1,5 @@
 ###### All credits belong to their respective artists. Will be updating this repo regularly as I learn/acquire new sheet music, enjoy :)
-###### All sheets were already made public and pulled from public sites such as Scribd
+###### All sheets were already made public and pulled from public sites such as Scribd, Musescore, free-scores, etc.
 ###### P.S. This readme could be outdated, see [tree.txt](https://github.com/JKleinne/PianoSheets/blob/master/tree.txt) for a more up-to-date list of contents
  **Table of Contents**
 * [Kyle Landry](#kyle-landry)
